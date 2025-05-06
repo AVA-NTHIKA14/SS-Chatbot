@@ -5,7 +5,7 @@ A Gradio-based chatbot powered by Groq LLM to assist KTU S4 students (2019 Schem
 
 ### 🔗 Live Demo
 
-[🔵 Try it on Gradio] : https://c855c5178e75de9d5b.gradio.live/)
+[🔵 Try it on Gradio] : https://c855c5178e75de9d5b.gradio.live/
 
 ---
 
@@ -60,6 +60,7 @@ def initialize_messages():
 ### 📸 Screenshot
 
 ![{0813D36B-02E0-4503-80BF-15DD209D20E6}](https://github.com/user-attachments/assets/943b511e-c899-4588-9d07-059f363d4710)
+![{E1BE0BB4-9ACA-47B9-866D-7C41763DFA0D}](https://github.com/user-attachments/assets/4909d9ef-fd64-498a-80f3-64861cc0238a)
 
 
 ---
